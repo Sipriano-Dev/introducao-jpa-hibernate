@@ -1,4 +1,4 @@
-package org.example.dominio;
+package com.sipriano.aulajpa.dominio;
 
 import java.io.Serializable;
 

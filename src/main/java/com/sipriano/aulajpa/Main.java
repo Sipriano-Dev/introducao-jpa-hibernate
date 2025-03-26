@@ -1,6 +1,6 @@
-package org.example;
+package com.sipriano.aulajpa;
 
-import org.example.dominio.Pessoa;
+import com.sipriano.aulajpa.dominio.Pessoa;
 
 public class Main {
     public static void main(String[] args) {
